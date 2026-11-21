@@ -5,16 +5,14 @@
     "name": "节奏大师",
     "description": "节奏大师｜腕上无声节奏游戏\n无需音乐，也能感受指尖节奏。 专为小屏手环打造，黑白极简画面，单指即可畅玩，随时开启一场节奏挑战！\n\n✨ 特色亮点\n17 首原创节奏谱目 · 51 张谱面：简单、普通、困难三档可选，从入门到进阶。\n五类音符，丰富操作：点按、长按、左右滑动、向上滑动，还有按节奏变道的折线长按。\n四种模式，随心挑战：自由演奏、闯关挑战、专项练习、无尽加速。\n命中震动 · 全连庆祝：支持震动开关，冲击 Full Combo / All Perfect！\n大字游玩记录：最高分、准确率、最大连击、最近战绩与今日统计，一目了然\n自定义操作节奏：支持下落预览速度调整、判定偏移设置与视觉节拍校准",
     "preview": [
-      "media/b1ae08017583e9eb5b401f8658a051fd.png",
-      "media/3b6b1983eba1b30ed38adde0a2b1359c.png",
-      "media/7a76bafaa0e6b01a18ec2565926bd9d4.png",
-      "media/60c9bc0b33f6357bf08b42cb813894ee.png",
-      "media/8ae93cf35c9c607f44c3665abaf9473b.png",
-      "media/74a539acb366629fbb8b8f0d2c21c42f.png",
-      "media/d928f38dcb950216d04da3578db39354.png"
+      "media/01-四种模式.png",
+      "media/02-曲目选择.png",
+      "media/03-难度选择.png",
+      "media/04-音符玩法.png",
+      "media/05-游玩记录.png"
     ],
     "icon": "media/icon.png",
-    "cover": "media/节奏大师_封面_PNG_555KB.png",
+    "cover": "media/e30d58b5-c976-40ba-9ef4-6c418a870c04.png",
     "author": [
       {
         "name": "xiaozhukeqi",
